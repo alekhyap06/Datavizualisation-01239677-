@@ -201,6 +201,9 @@ longitude 37.87
 
 1.  *Change `Name` to `Origin`.*
 
+When we change a name to origin country name is displayed when you move
+the cursor graph
+
 Another example, `count()`
 
 1.  *Remove the `vl.y().fieldN("Origin")` line.*

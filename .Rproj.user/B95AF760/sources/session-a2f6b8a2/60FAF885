@@ -3,7 +3,7 @@
     "path": "~/Desktop/Datavizualisation-01239677-/report.Rmd",
     "project_path": "report.Rmd",
     "type": "r_markdown",
-    "hash": "368647566",
+    "hash": "2318685019",
     "contents": "",
     "dirty": false,
     "created": 1674173154433.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "164,1",
-        "scrollLine": "156"
+        "cursorPosition": "172,90",
+        "scrollLine": "161"
     },
     "folds": "",
-    "lastKnownWriteTime": 1674190162,
+    "lastKnownWriteTime": 1674190781,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1674190162401,
+    "last_content_update": 1674190781692,
     "read_only": false,
     "read_only_alternatives": []
 }
